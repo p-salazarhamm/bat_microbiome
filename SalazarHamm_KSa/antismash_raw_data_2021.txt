@@ -1,0 +1,636 @@
+id	Cluster	Type	From	To	Most similar known cluster	MIBiG BGC-ID	Similarity
+AC550_RSS872	Region 5.1	NRPS	"141,973"	"202,668"	arginomycin	Other	10
+AC550_RSS872	Region 10.1	"NRPS,butyrolactone"	1	"62,178"	"(2S,6R)-diamino-(5R,7)-dihydroxy-heptanoic acid"	NRP	6
+AC550_RSS872	Region 15.1	"bacteriocin,lanthipeptide,NRPS-like,T1PKS,siderophore"	"13,852"	"75,976"	informatipeptin	RiPP:Lanthipeptide	100
+AC550_RSS872	Region 19.1	siderophore	"121,684"	"134,835"	grincamycin	Polyketide:Type II + Saccharide:Hybrid/tailoring	8
+AC550_RSS872	Region 25.1	terpene	"267,266"	"293,914"	hopene	Terpene	92
+AC550_RSS872	Region 26.1	"T1PKS,other"	1	"19,555"	amycomicin	Polyketide	25
+AC550_RSS872	Region 27.1	"NRPS,ladderane,melanin"	"7,666"	"64,762"	ishigamide	NRP + Polyketide	55
+AC550_RSS872	Region 27.2	siderophore	"164,024"	"175,796"	desferrioxamin B / desferrioxamine E	Other	83
+AC550_RSS872	Region 28.1	"NRPS,T1PKS"	"50,838"	"109,578"	pyridomycin	NRP + Polyketide	7
+AC550_RSS872	Region 32.1	ectoine	"52,858"	"63,262"	ectoine	Other	100
+AC550_RSS872	Region 41.1	TfuA-related	"33,645"	"55,773"	thioholgamide A / thioholgamide B	RiPP	36
+AC550_RSS872	Region 45.1	"terpene,melanin"	"7,158"	"29,074"	melanin	Other	57
+AC550_RSS872	Region 46.1	NRPS	1	"1,910"			
+AC550_RSS872	Region 47.1	CDPS	"22,740"	"43,516"			
+AC550_RSS872	Region 50.1	T2PKS	1	"33,509"	spore pigment	Polyketide	75
+AC550_RSS872	Region 55.1	"lanthipeptide,lassopeptide"	"90,017"	"121,468"	friulimicin A / friulimicin B / friulimicin C / friulimicin D	NRP	6
+AC550_RSS872	Region 59.1	"NRPS,T1PKS"	"57,548"	"190,991"	kedarcidin	Polyketide:Iterative type I + Polyketide:Enediyne type I	3
+AC550_RSS872	Region 61.1	terpene	"3,014"	"24,000"	xiamycin	Terpene + Alkaloid	20
+AC550_RSS872	Region 77.1	NRPS	1	"10,476"	cysteoamide	NRP	18
+AC550_RSS872	Region 79.1	terpene	"88,983"	"109,996"	pentalenolactone	Terpene	58
+AC550_RSS872	Region 79.2	lassopeptide	"144,248"	"166,793"	citrulassin D	RiPP	100
+AC550_RSS872	Region 80.1	lassopeptide	"33,001"	"55,439"			
+AC550_RSS872	Region 80.2	NRPS	"151,315"	"202,451"	salinichelins	NRP	61
+AC550_RSS872	Region 80.3	"NRPS,T1PKS"	"233,013"	"319,911"	foxicins A-D	NRP + Polyketide	12
+AC550_RSS872	Region 82.1	T1PKS	"26,557"	"78,588"	oligomycin	Polyketide	61
+AC550_RSS872	Region 90.1	bacteriocin	"11,723"	"23,060"			
+AC550_RSS872	Region 90.2	"butyrolactone,terpene"	"99,337"	"124,650"	γ-butyrolactone	Other	100
+AC550_RSS872	Region 91.1	T1PKS	"4,471"	"49,010"			
+AC550_RSS872	Region 91.2	T1PKS	"258,389"	"295,522"	herbimycin A	Polyketide	23
+AC550_RSS872	Region 92.1	terpene	"10,296"	"31,369"			
+AC550_RSS872	Region 92.2	NRPS	"57,247"	"129,157"	friulimicin A / friulimicin B / friulimicin C / friulimicin D	NRP	30
+AC550_RSS872	Region 93.1	siderophore	1	"8,564"			
+AC550_RSS872	Region 94.1	NRPS	"105,964"	"188,600"	JBIR-78 / JBIR-95	NRP	77
+AC550_RSS872	Region 107.1	NRPS-like	1	"27,267"			
+AC550_RSS872	Region 107.2	terpene	"79,227"	"100,252"	"UK-68,597"	NRP:Glycopeptide	8
+AC550_RSS872	Region 108.1	"transAT-PKS,NRPS,T1PKS"	1	"83,479"	phthoxazolin	NRP + Polyketide	9
+AC550_RSS872	Region 117.1	T1PKS	"6,846"	"54,330"	mycotrienin I	NRP + Polyketide	7
+AC550_RSS872	Region 117.2	NRPS	"133,257"	"157,506"	cadaside A / cadaside B	NRP	19
+AC550_RSS872	Region 121.1	terpene	"2,519"	"23,604"	albaflavenone	Terpene	100
+AC550_RSS872	Region 121.2	T1PKS	"160,079"	"235,364"	oligomycin	Polyketide	66
+AC550_RSS872	Region 122.1	"NRPS,bacteriocin,LAP"	1	"54,556"	"(2S,6R)-diamino-(5R,7)-dihydroxy-heptanoic acid"	NRP	30
+AC602_WCS936	Region 3.1	siderophore	"62,969"	"76,137"	enduracidin	NRP	6
+AC602_WCS936	Region 7.1	"T2PKS,NRPS"	1	"63,712"	kosinostatin	NRP + Polyketide	27
+AC602_WCS936	Region 11.1	bacteriocin	"109,170"	"120,504"			
+AC602_WCS936	Region 12.1	phenazine	"35,449"	"55,940"	endophenazine A / endophenazine B	Other:Phenazine	44
+AC602_WCS936	Region 13.1	"ectoine,furan,butyrolactone"	1	"35,337"	ectoine	Other	75
+AC602_WCS936	Region 16.1	siderophore	"57,699"	"69,636"			
+AC602_WCS936	Region 18.1	NRPS	1	"2,700"			
+AC602_WCS936	Region 19.1	terpene	"69,017"	"89,967"	albaflavenone	Terpene	100
+AC602_WCS936	Region 20.1	"butyrolactone,betalactone"	"202,809"	"231,367"	A-201A	Other	6
+AC602_WCS936	Region 26.1	"NRPS,ectoine"	1	"39,537"	kosinostatin	NRP + Polyketide	21
+AC602_WCS936	Region 28.1	"NRPS,lanthipeptide"	1	"46,207"			
+AC602_WCS936	Region 29.1	terpene	"13,777"	"35,957"	geosmin	Terpene	100
+AC602_WCS936	Region 32.1	"PKS-like,NRPS"	1	"30,048"	virginiamycin S1	NRP + Polyketide	38
+AC602_WCS936	Region 33.1	melanin	"76,388"	"86,822"	melanin	Other	40
+AC602_WCS936	Region 41.1	"hglE-KS,T1PKS"	1	"17,564"			
+AC602_WCS936	Region 47.1	NRPS	1	"4,812"			
+AC602_WCS936	Region 50.1	ectoine	"2,449"	"12,841"			
+AC602_WCS936	Region 51.1	"NRPS,T3PKS"	"311,021"	"387,488"	herboxidiene	Polyketide	8
+AC602_WCS936	Region 54.1	terpene	"13,067"	"34,311"	2-methylisoborneol	Terpene	100
+AC602_WCS936	Region 56.1	hglE-KS	1	"10,834"	nataxazole	Polyketide	7
+AC602_WCS936	Region 63.1	lanthipeptide	"25,625"	"48,276"	SapB	RiPP:Lanthipeptide	100
+AC602_WCS936	Region 63.2	NRPS	"182,296"	"233,239"	coelichelin	NRP	100
+AC602_WCS936	Region 63.3	NRPS-like	"278,409"	"320,901"	stenothricin	NRP:Cyclic depsipeptide	13
+AC602_WCS936	Region 63.4	bacteriocin	"499,967"	"510,182"	informatipeptin	RiPP:Lanthipeptide	42
+AC602_WCS936	Region 63.5	terpene	"526,874"	"547,905"	versipelostatin	Polyketide	5
+AC602_WCS936	Region 78.1	melanin	"54,646"	"65,089"	melanin	Other	60
+AC602_WCS936	Region 85.1	terpene	"159,013"	"185,746"	hopene	Terpene	100
+AC602_WCS936	Region 85.2	"NRPS,phosphonate"	"498,974"	"558,456"	kanamycin	Saccharide	61
+AC602_WCS936	Region 89.1	ectoine	"62,643"	"73,041"	ectoine	Other	100
+AC602_WCS936	Region 91.1	siderophore	"35,282"	"47,054"	desferrioxamin B / desferrioxamine E	Other	83
+AC602_WCS936	Region 92.1	T2PKS	"66,269"	"107,687"	spore pigment	Polyketide	66
+AC602_WCS936	Region 94.1	terpene	"41,215"	"76,287"	isorenieratene	Terpene	63
+AC602_WCS936	Region 94.2	indole	"137,619"	"158,740"	5-isoprenylindole-3-carboxylate β-D-glycosyl ester	Other	23
+AC558_RSS880	Region 2.1	butyrolactone	"219,250"	"230,209"	SCB1 / SCB2 / SCB3	Other:Butyrolactone	100
+AC558_RSS880	Region 5.1	"hglE-KS,T1PKS"	"95,128"	"126,528"			
+AC558_RSS880	Region 6.1	siderophore	"113,410"	"125,182"	desferrioxamin B / desferrioxamine E	Other	83
+AC558_RSS880	Region 6.2	melanin	"209,420"	"219,920"	melanin	Other	100
+AC558_RSS880	Region 13.1	NRPS	1	"7,451"	atratumycin	NRP	13
+AC558_RSS880	Region 15.1	siderophore	"55,578"	"67,386"	ficellomycin	NRP	3
+AC558_RSS880	Region 18.1	NRPS	1	"30,118"	kosinostatin	NRP + Polyketide	3
+AC558_RSS880	Region 18.2	siderophore	"33,759"	"46,865"			
+AC558_RSS880	Region 27.1	indole	"110,573"	"131,748"	7-prenylisatin	Other	60
+AC558_RSS880	Region 27.2	bacteriocin	"387,706"	"399,016"			
+AC558_RSS880	Region 28.1	terpene	"311,849"	"333,000"	albaflavenone	Terpene	100
+AC558_RSS880	Region 54.1	"arylpolyene,ladderane,NRPS,NRPS-like"	1	"59,414"	RP-1776	Polyketide + NRP:Cyclic depsipeptide	36
+AC558_RSS880	Region 54.2	betalactone	"103,338"	"127,133"	divergolide A / divergolide B / divergolide C / divergolide D	Polyketide:Modular type I	6
+AC558_RSS880	Region 61.1	"NRPS-like,T1PKS"	1	"34,844"	tylactone	Polyketide	6
+AC558_RSS880	Region 62.1	"NRPS,T2PKS"	"97,560"	"218,194"	spore pigment	Polyketide	83
+AC558_RSS880	Region 68.1	T1PKS	"104,168"	"135,828"	salinomycin	Polyketide:Modular type I	16
+AC558_RSS880	Region 70.1	"NRPS,T1PKS"	"55,408"	"112,571"	antimycin	NRP + Polyketide	100
+AC558_RSS880	Region 70.2	"T1PKS,NRPS"	"323,506"	"375,271"	oxalomycin B	NRP + Polyketide	9
+AC558_RSS880	Region 70.3	terpene	"410,564"	"435,855"	carotenoid	Terpene	63
+AC558_RSS880	Region 71.1	"hglE-KS,T3PKS,terpene"	1	"58,141"	alkylresorcinol	Polyketide	100
+AC558_RSS880	Region 84.1	lanthipeptide	"8,219"	"30,837"	SapB	RiPP:Lanthipeptide	100
+AC558_RSS880	Region 87.1	T1PKS	"22,639"	"89,710"	lorneic acid A	Polyketide	23
+AC558_RSS880	Region 100.1	NRPS	1	"10,627"	cadaside A / cadaside B	NRP	14
+AC558_RSS880	Region 101.1	bacteriocin	"296,069"	"306,284"	informatipeptin	RiPP:Lanthipeptide	42
+AC558_RSS880	Region 101.2	terpene	"320,298"	"341,329"			
+AC558_RSS880	Region 102.1	terpene	"30,858"	"53,017"	geosmin	Terpene	100
+AC558_RSS880	Region 103.1	NRPS	"30,809"	"99,717"	isocomplestatin	NRP	31
+AC558_RSS880	Region 106.1	terpene	1	"10,061"	hopene	Terpene	61
+AC558_RSS880	Region 107.1	T1PKS	1	"5,222"			
+AC558_RSS880	Region 109.1	NRPS	1	"53,799"	CDA1b / CDA2a / CDA2b / CDA3a / CDA3b / CDA4a / CDA4b	NRP:Ca+-dependent lipopeptide	20
+AC558_RSS880	Region 112.1	T1PKS	1	"23,977"			
+AC558_RSS880	Region 112.2	lassopeptide	"39,304"	"61,889"	citrulassin D	RiPP	100
+AC558_RSS880	Region 113.1	ectoine	"72,038"	"82,436"	ectoine	Other	100
+AC558_RSS880	Region 114.1	T1PKS	1	"13,358"	"10,11-dihydro-8-deoxy-12,13-deepoxy-12,13-dihydrochalcomycin"	Polyketide	19
+AC558_RSS880	Region 118.1	T1PKS	1	"22,579"	salinomycin	Polyketide:Modular type I	18
+AC558_RSS880	Region 126.1	"T1PKS,NRPS"	1	"76,298"	coelichelin	NRP	100
+AC558_RSS880	Region 128.1	NRPS	1	"7,820"			
+AC558_RSS880	Region 130.1	T1PKS	1	"15,142"	linfuranone B / linfuranone C	Polyketide	38
+AC558_RSS880	Region 134.1	T1PKS	1	"12,559"	pentamycin	Polyketide	33
+AC558_RSS880	Region 138.1	T1PKS	1	"21,235"	ebelactone A / ebelactone B	Polyketide	40
+AC564_RSS886	Region 4.1	NRPS	"57,989"	"102,194"	atratumycin	NRP	7
+AC564_RSS886	Region 11.1	"terpene,CDPS"	"29,821"	"51,454"			
+AC564_RSS886	Region 14.1	"T1PKS,transAT-PKS,PKS-like"	"8,623"	"106,100"	psymberin / irciniastatin B	NRP + Polyketide:Trans-AT type I	31
+AC564_RSS886	Region 17.1	bacteriocin	"21,580"	"28,336"			
+AC564_RSS886	Region 26.1	butyrolactone	"14,697"	"25,083"			
+AC564_RSS886	Region 27.1	terpene	"47,855"	"74,621"	hopene	Terpene	61
+AC564_RSS886	Region 29.1	T3PKS	"12,122"	"53,210"	s56-p1	NRP	11
+AC564_RSS886	Region 29.2	NRPS	"122,873"	"169,527"	diisonitrile antibiotic SF2768	NRP	66
+AC564_RSS886	Region 30.1	NRPS	1	"32,079"			
+AC564_RSS886	Region 30.2	terpene	"210,230"	"231,294"			
+AC564_RSS886	Region 31.1	CDPS	1	"16,264"	naseseazine C / C3-aryl pyrroloindolines	Other	66
+AC564_RSS886	Region 31.2	"NRPS,T1PKS"	"93,470"	"299,396"	nigericin	Polyketide:Modular type I	100
+AC564_RSS886	Region 31.3	terpene	"378,982"	"397,394"	isorenieratene	Terpene	18
+AC564_RSS886	Region 31.4	"terpene,T1PKS,NRPS"	"433,264"	"538,283"	isorenieratene	Terpene	85
+AC564_RSS886	Region 44.1	NRPS-like	"25,309"	"68,362"	echoside A / echoside B / echoside C / echoside D / echoside E	NRP	76
+AC564_RSS886	Region 49.1	betalactone	"11,946"	"45,188"	belactosin A / belactosin C	Other	8
+AC564_RSS886	Region 49.2	NRPS	"76,344"	"119,679"	stenothricin	NRP:Cyclic depsipeptide	13
+AC564_RSS886	Region 53.1	NRPS	"74,183"	"165,561"	cysteoamide	NRP	18
+AC564_RSS886	Region 53.2	LAP	"229,915"	"253,332"			
+AC564_RSS886	Region 53.3	lassopeptide	"277,871"	"300,424"			
+AC564_RSS886	Region 53.4	T3PKS	"353,292"	"394,422"	flaviolin	Other	75
+AC564_RSS886	Region 54.1	siderophore	"45,424"	"53,072"	ficellomycin	NRP	3
+AC564_RSS886	Region 61.1	ladderane	"31,842"	"67,748"	marinacarboline A / marinacarboline B / marinacarboline C / marinacarboline D	Alkaloid	30
+AC564_RSS886	Region 63.1	siderophore	1	"7,448"			
+AC564_RSS886	Region 66.1	"CDPS,other"	"10,300"	"46,365"	sporolide A / sporolide B	NRP + Polyketide:Enediyne type I	4
+AC564_RSS886	Region 70.1	NRPS	"65,227"	"112,251"	streptobactin	NRP	41
+AC564_RSS886	Region 73.1	terpene	"1,134"	"23,374"	geosmin	Terpene	100
+AC564_RSS886	Region 75.1	ectoine	"68,675"	"79,079"	ectoine	Other	100
+AC564_RSS886	Region 83.1	arylpolyene	"55,421"	"96,638"	kedarcidin	Polyketide:Iterative type I + Polyketide:Enediyne type I	7
+AC564_RSS886	Region 87.1	siderophore	"155,884"	"169,765"			
+AC564_RSS886	Region 102.1	bacteriocin	1	"3,281"			
+AC564_RSS886	Region 105.1	"T1PKS,NRPS"	"59,644"	"205,394"	niphimycins C-E	Polyketide	41
+AC564_RSS886	Region 108.1	T1PKS	"2,857"	"86,322"	piericidin A1	Polyketide	100
+AC564_RSS886	Region 109.1	T1PKS	1	"4,167"			
+AC564_RSS886	Region 110.1	T1PKS	1	"95,579"	niphimycins C-E	Polyketide	29
+AC564_RSS886	Region 111.1	terpene	"24,534"	"45,733"	merochlorin A / merochlorin B / deschloro-merochlorin A / deschloro-merochlorin B / isochloro-merochlorin B / dichloro-merochlorin B / merochlorin D / merochlorin C	Terpene + Polyketide:Type III	7
+AC564_RSS886	Region 113.1	terpene	1	"11,178"	xiamycin A	Terpene	13
+AC563_RSS885	Region 1.1	"T1PKS,NRPS"	1	"57,022"	concanamycin A	Polyketide	28
+AC563_RSS885	Region 1.2	CDPS	"133,758"	"150,021"	naseseazine C / C3-aryl pyrroloindolines	Other	66
+AC563_RSS885	Region 4.1	"terpene,CDPS"	"29,755"	"51,388"			
+AC563_RSS885	Region 7.1	terpene	"17,984"	"39,183"	merochlorin A / merochlorin B / deschloro-merochlorin A / deschloro-merochlorin B / isochloro-merochlorin B / dichloro-merochlorin B / merochlorin D / merochlorin C	Terpene + Polyketide:Type III	7
+AC563_RSS885	Region 9.1	NRPS	"74,362"	"121,016"	diisonitrile antibiotic SF2768	NRP	66
+AC563_RSS885	Region 13.1	NRPS	"57,989"	"102,194"	atratumycin	NRP	7
+AC563_RSS885	Region 14.1	"other,CDPS"	"23,094"	"65,795"	BD-12	NRP	14
+AC563_RSS885	Region 24.1	NRPS	"3,451"	"94,829"	cysteoamide	NRP	18
+AC563_RSS885	Region 30.1	NRPS-like	"25,381"	"68,434"	echoside A / echoside B / echoside C / echoside D / echoside E	NRP	76
+AC563_RSS885	Region 31.1	terpene	"47,867"	"74,633"	hopene	Terpene	61
+AC563_RSS885	Region 36.1	siderophore	1	"7,827"	ficellomycin	NRP	3
+AC563_RSS885	Region 39.1	LAP	"60,896"	"84,313"			
+AC563_RSS885	Region 39.2	lassopeptide	"108,846"	"131,399"			
+AC563_RSS885	Region 41.1	arylpolyene	"114,499"	"145,746"	kedarcidin	Polyketide:Iterative type I + Polyketide:Enediyne type I	6
+AC563_RSS885	Region 48.1	terpene	"55,665"	"76,729"			
+AC563_RSS885	Region 55.1	siderophore	"22,786"	"30,213"			
+AC563_RSS885	Region 62.1	"NRPS,T1PKS"	"33,941"	"179,777"	niphimycins C-E	Polyketide	41
+AC563_RSS885	Region 68.1	ladderane	1	"20,880"			
+AC563_RSS885	Region 72.1	ectoine	"214,058"	"224,462"	ectoine	Other	100
+AC563_RSS885	Region 74.1	T3PKS	"3,621"	"44,751"	flaviolin	Other	75
+AC563_RSS885	Region 80.1	T3PKS	"12,397"	"48,845"	s56-p1	NRP	11
+AC563_RSS885	Region 82.1	butyrolactone	"14,606"	"24,992"			
+AC563_RSS885	Region 88.1	terpene	"1,163"	"23,430"	geosmin	Terpene	100
+AC563_RSS885	Region 106.1	siderophore	"6,701"	"20,582"			
+AC563_RSS885	Region 107.1	terpene	1	"10,895"	xiamycin A	Terpene	13
+AC563_RSS885	Region 111.1	T1PKS	"2,193"	"98,877"	methymycin	Polyketide:Modular type I + Saccharide:Hybrid/tailoring	57
+AC563_RSS885	Region 115.1	T1PKS	1	"153,829"	nigericin	Polyketide:Modular type I	94
+AC563_RSS885	Region 115.2	terpene	"233,415"	"251,827"	isorenieratene	Terpene	27
+AC563_RSS885	Region 115.3	"terpene,T1PKS,NRPS"	"287,697"	"392,716"	isorenieratene	Terpene	85
+AC563_RSS885	Region 116.1	NRPS	"15,753"	"57,114"	stenothricin	NRP:Cyclic depsipeptide	13
+AC563_RSS885	Region 116.2	betalactone	"89,486"	"122,728"	belactosin A / belactosin C	Other	8
+AC563_RSS885	Region 116.3	NRPS	"229,528"	"276,552"	streptobactin	NRP	41
+AC563_RSS885	Region 118.1	NRPS	"104,724"	"136,802"			
+AC563_RSS885	Region 123.1	bacteriocin	1	"7,375"			
+AC563_RSS885	Region 125.1	T1PKS	"139,158"	"217,428"	piericidin A1	Polyketide	100
+AC563_RSS885	Region 127.1	"transAT-PKS,PKS-like"	"13,651"	"106,221"	thailandamide / thailandamide lactone	NRP + Polyketide:Modular type I	26
+AC563_RSS885	Region 128.1	bacteriocin	"20,015"	"26,789"			
+AC563_RSS885	Region 130.1	T1PKS	1	"5,008"			
+AC555_RSS877	Region 14.1	ectoine	"210,640"	"221,044"	ectoine	Other	100
+AC555_RSS877	Region 15.1	T2PKS	"91,553"	"159,011"	collinomycin	Polyketide	96
+AC555_RSS877	Region 17.1	butyrolactone	"3,122"	"14,081"			
+AC555_RSS877	Region 17.2	bacteriocin	"182,436"	"193,743"			
+AC555_RSS877	Region 19.1	"NRPS,T1PKS"	"11,772"	"48,547"	foxicins A-D	NRP + Polyketide	4
+AC555_RSS877	Region 23.1	terpene	"47,247"	"73,891"	hopene	Terpene	92
+AC555_RSS877	Region 24.1	terpene	"81,872"	"104,028"	geosmin	Terpene	100
+AC555_RSS877	Region 31.1	siderophore	"38,980"	"50,884"			
+AC555_RSS877	Region 36.1	T2PKS	"14,884"	"65,514"	spore pigment	Polyketide	83
+AC555_RSS877	Region 39.1	terpene	"80,872"	"101,903"	cyphomycin	Polyketide	2
+AC555_RSS877	Region 39.2	"bacteriocin,lanthipeptide"	"124,053"	"151,254"	informatipeptin	RiPP:Lanthipeptide	100
+AC555_RSS877	Region 39.3	siderophore	"160,666"	"174,305"			
+AC555_RSS877	Region 39.4	T1PKS	"268,758"	"312,843"	chlorothricin / deschlorothricin	Polyketide:Modular type I + Polyketide:Iterative type I + Saccharide:Oligosaccharide	4
+AC555_RSS877	Region 46.1	butyrolactone	1	"10,922"	lactonamycin	Polyketide	3
+AC555_RSS877	Region 48.1	T3PKS	"1,692"	"42,780"	alkylresorcinol	Polyketide	100
+AC555_RSS877	Region 52.1	NRPS-like	"124,242"	"168,114"			
+AC555_RSS877	Region 53.1	siderophore	"21,325"	"34,446"	grincamycin	Polyketide:Type II + Saccharide:Hybrid/tailoring	8
+AC555_RSS877	Region 53.2	NRPS	"109,203"	"160,188"	coelichelin	NRP	100
+AC555_RSS877	Region 56.1	"NRPS,T3PKS"	1	"39,297"	feglymycin	NRP	31
+AC555_RSS877	Region 57.1	terpene	"186,391"	"207,314"	albaflavenone	Terpene	100
+AC555_RSS877	Region 65.1	NRPS	"25,455"	"48,628"	streptovaricin	Polyketide	17
+AC555_RSS877	Region 71.1	"siderophore,NRPS-like"	"20,743"	"71,238"	desferrioxamin B / desferrioxamine E	Other	100
+AC555_RSS877	Region 71.2	melanin	"151,076"	"161,459"	melanin	Other	60
+AC555_RSS877	Region 71.3	amglyccycl	"213,249"	"229,508"	cetoniacytone A	Other:Cyclitol	9
+AC555_RSS877	Region 80.1	"PKS-like,NRPS-like,butyrolactone"	"27,339"	"94,016"	pyridomycin	NRP + Polyketide	26
+AC555_RSS877	Region 104.1	"T1PKS,NRPS-like"	1	"24,828"	lagunapyrone A / lagunapyrone B / lagunapyrone C	Polyketide	22
+AC555_RSS877	Region 112.1	NRPS	1	"3,109"			
+AC555_RSS877	Region 114.1	NRPS	1	"2,580"			
+AC555_RSS877	Region 123.1	NRPS	1	"29,667"			
+AC555_RSS877	Region 124.1	NRPS-like	1	"2,249"			
+AC555_RSS877	Region 125.1	NRPS	1	"3,694"	taromycin A	NRP:Ca+-dependent lipopeptide	10
+AC555_RSS877	Region 128.1	NRPS-like	1	"32,358"	conglobatin	NRP	10
+AC555_RSS877	Region 130.1	NRPS-like	"71,331"	"114,615"	glycinocin A	NRP	4
+AC555_RSS877	Region 135.1	terpene	897	"22,768"			
+AC555_RSS877	Region 137.1	NRPS	1	"1,427"	telomycin	NRP	8
+AC555_RSS877	Region 141.1	terpene	"127,941"	"149,017"			
+AC627_RSS907	Region 5.1	terpene	1	"20,102"	carotenoid	Terpene	54
+AC627_RSS907	Region 5.2	indole	"58,674"	"79,801"	5-isoprenylindole-3-carboxylate β-D-glycosyl ester	Other	28
+AC627_RSS907	Region 6.1	T2PKS	1	"40,258"	fluostatins M-Q	Polyketide	44
+AC627_RSS907	Region 34.1	siderophore	"16,566"	"28,395"			
+AC627_RSS907	Region 37.1	siderophore	"42,849"	"55,998"			
+AC627_RSS907	Region 38.1	terpene	1	"3,896"	hopene	Terpene	30
+AC627_RSS907	Region 41.1	T2PKS	1	"50,403"	spore pigment	Polyketide	66
+AC627_RSS907	Region 41.2	terpene	"85,026"	"99,764"	albaflavenone	Terpene	100
+AC627_RSS907	Region 45.1	lanthipeptide	"85,536"	"108,229"			
+AC627_RSS907	Region 48.1	terpene	1	"15,380"	hopene	Terpene	46
+AC627_RSS907	Region 49.1	T1PKS	1	"30,745"	bafilomycin B1	Polyketide:Modular type I	77
+AC627_RSS907	Region 53.1	"T2PKS,butyrolactone"	1	"18,282"	lactonamycin	Polyketide	14
+AC627_RSS907	Region 54.1	T1PKS	1	"6,382"	mediomiycin A	Polyketide	36
+AC627_RSS907	Region 59.1	melanin	"34,943"	"45,452"	melanin	Other	40
+AC627_RSS907	Region 64.1	"LAP,thiopeptide"	1	"29,409"	diazepinomicin	Terpene	7
+AC627_RSS907	Region 67.1	NRPS	1	"22,662"			
+AC627_RSS907	Region 70.1	NRPS	1	"37,508"	rimosamide	NRP	21
+AC627_RSS907	Region 72.1	"transAT-PKS,NRPS,T1PKS"	1	"142,687"	kirromycin	NRP + Polyketide:Modular type I + Polyketide:Trans-AT type I	40
+AC627_RSS907	Region 79.1	"terpene,CDPS"	"22,823"	"36,097"			
+AC627_RSS907	Region 82.1	NRPS	1	"31,828"	coelichelin	NRP	100
+AC627_RSS907	Region 88.1	bacteriocin	"23,812"	"34,027"			
+AC627_RSS907	Region 89.1	T3PKS	"123,675"	"160,237"	herboxidiene	Polyketide	8
+AC627_RSS907	Region 91.1	NRPS	1	"8,961"			
+AC627_RSS907	Region 93.1	CDPS	1	"18,916"	mycotrienin I	NRP + Polyketide	7
+AC627_RSS907	Region 94.1	furan	"30,948"	"51,961"	methylenomycin A	Other	9
+AC627_RSS907	Region 102.1	siderophore	"43,269"	"55,038"	desferrioxamin B / desferrioxamine E	Other	83
+AC627_RSS907	Region 114.1	terpene	"9,527"	"30,408"			
+AC627_RSS907	Region 120.1	ectoine	"35,376"	"45,774"	ectoine	Other	100
+AC627_RSS907	Region 128.1	T1PKS	1	"6,442"			
+AC627_RSS907	Region 130.1	NRPS-like	"82,243"	"124,090"	collismycin A	NRP + Polyketide:Modular type I	7
+AC627_RSS907	Region 139.1	terpene	1	"14,104"	geosmin	Terpene	100
+AC627_RSS907	Region 143.1	T1PKS	1	"14,970"	mediomycin A	Polyketide	28
+AC627_RSS907	Region 150.1	bacteriocin	1	"4,652"			
+AC627_RSS907	Region 153.1	T1PKS	1	"18,207"	heronamide A / heronamide B / heronamide C / heronamide D / heronamide E / heronamide F	NRP + Polyketide	29
+AC627_RSS907	Region 164.1	T1PKS	1	"8,851"			
+AC627_RSS907	Region 167.1	T1PKS	1	"28,112"	funisamine	Polyketide	47
+AC627_RSS907	Region 167.2	"lanthipeptide,hglE-KS"	"72,917"	"126,612"	SapB	RiPP:Lanthipeptide	100
+AC627_RSS907	Region 171.1	NRPS	"44,496"	"114,119"	netropsin	NRP	100
+AC627_RSS907	Region 171.2	"NRPS,T1PKS"	"136,469"	"228,262"	surugamide A / surugamide D	NRP	9
+AC627_RSS907	Region 174.1	T1PKS	1	"4,774"	heronamide A / heronamide B / heronamide C / heronamide D / heronamide E / heronamide F	NRP + Polyketide	29
+AC627_RSS907	Region 175.1	T1PKS	1	"10,100"			
+AC627_RSS907	Region 191.1	T1PKS	1	"7,932"	tautomycin	Polyketide:Modular type I	10
+AC627_RSS907	Region 200.1	arylpolyene	1	"1,361"	colabomycin E	Polyketide:Type II	4
+AC627_RSS907	Region 203.1	T1PKS	1	"5,701"	ibomycin	Polyketide	15
+AC627_RSS907	Region 211.1	T1PKS	1	"14,339"	pentamycin	Polyketide	26
+AC512_CC834	Region 5.1	"T2PKS,PKS-like,betalactone,T1PKS,other"	1	"72,498"	LL-D49194α1 (LLD)	Polyketide	47
+AC512_CC834	Region 7.1	"LAP,thiopeptide"	"8,683"	"33,392"			
+AC512_CC834	Region 11.1	siderophore	"38,402"	"50,198"	desferrioxamin B / desferrioxamine E	Other	83
+AC512_CC834	Region 12.1	ectoine	"78,981"	"89,379"	ectoine	Other	100
+AC512_CC834	Region 25.1	"furan,butyrolactone"	"8,548"	"38,402"	methylenomycin A	Other	90
+AC512_CC834	Region 26.1	NRPS-like	1	"27,129"	paulomycin	Other	11
+AC512_CC834	Region 29.1	siderophore	1	"7,046"			
+AC512_CC834	Region 31.1	"ladderane,NRPS"	1	"31,624"	ishigamide	NRP + Polyketide	83
+AC512_CC834	Region 33.1	butyrolactone	"83,075"	"93,836"	"3,7-dihydroxytropolone"	Other	77
+AC512_CC834	Region 33.2	terpene	"121,407"	"147,049"	isorenieratene	Terpene	100
+AC512_CC834	Region 33.3	"T1PKS,T3PKS"	"150,849"	"226,466"	pyrrolomycin A / pyrrolomycin B / pyrrolomycin C / pyrrolomycin D	Polyketide	31
+AC512_CC834	Region 38.1	NRPS	"52,319"	"99,156"	ishigamide	NRP + Polyketide	33
+AC512_CC834	Region 40.1	siderophore	"12,371"	"25,632"	enduracidin	NRP	4
+AC512_CC834	Region 48.1	T1PKS	1	"40,062"	nocamycin	NRP + Polyketide	18
+AC512_CC834	Region 49.1	terpene	"16,971"	"43,804"	hopene	Terpene	100
+AC512_CC834	Region 52.1	terpene	"67,500"	"89,698"	geosmin	Terpene	100
+AC512_CC834	Region 57.1	terpene	"60,357"	"81,442"	albaflavenone	Terpene	100
+AC512_CC834	Region 57.2	T2PKS	"141,864"	"179,982"	spore pigment	Polyketide	50
+AC512_CC834	Region 60.1	T2PKS	"15,923"	"86,792"	tetarimycin A / tetarimycin B	Polyketide:Type II	8
+AC512_CC834	Region 60.2	NRPS	"229,996"	"280,981"	coelichelin	NRP	100
+AC512_CC834	Region 60.3	NRPS-like	"337,111"	"379,618"	stenothricin	NRP:Cyclic depsipeptide	13
+AC512_CC834	Region 60.4	bacteriocin	"557,157"	"567,372"	informatipeptin	RiPP:Lanthipeptide	28
+AC512_CC834	Region 60.5	terpene	"581,289"	"602,320"	versipelostatin	Polyketide	5
+AC512_CC834	Region 78.1	T3PKS	"71,725"	"111,232"	alkylresorcinol	Polyketide	100
+AC512_CC834	Region 78.2	indole	"318,219"	"339,346"	5-isoprenylindole-3-carboxylate β-D-glycosyl ester	Other	23
+AC512_CC834	Region 78.3	NRPS	"413,991"	"460,417"	paenibactin	NRP	83
+AC512_CC834	Region 78.4	T3PKS	"547,776"	"587,322"	germicidin	Other	100
+AC512_CC834	Region 78.5	T3PKS	"823,578"	"864,690"	herboxidiene	Polyketide	8
+AC512_CC834	Region 79.1	melanin	"44,405"	"55,058"	melanin	Other	60
+AC512_CC834	Region 88.1	T1PKS	1	"49,751"	auroramycin	Polyketide	17
+AC512_CC834	Region 92.1	T1PKS	1	"23,748"	auroramycin	Polyketide	13
+AC512_CC834	Region 94.1	bacteriocin	1	"9,825"			
+AC512_CC834	Region 94.2	"PKS-like,T1PKS"	"125,519"	"173,605"	arsono-polyketide	Polyketide	100
+AC536_RSS858	Region 6.1	NRPS-like	1	"29,366"	echoside A / echoside B / echoside C / echoside D / echoside E	NRP	76
+AC536_RSS858	Region 8.1	"T3PKS,NRPS-like"	"38,542"	"103,659"	napyradiomycin A80915C	Terpene + Polyketide:Type III	9
+AC536_RSS858	Region 18.1	terpene	"115,749"	"137,989"	geosmin	Terpene	100
+AC536_RSS858	Region 20.1	siderophore	"6,735"	"20,616"			
+AC536_RSS858	Region 25.1	other	1	"19,080"	sporolide A / sporolide B	NRP + Polyketide:Enediyne type I	4
+AC536_RSS858	Region 32.1	bacteriocin	"26,055"	"36,930"			
+AC536_RSS858	Region 36.1	butyrolactone	"100,581"	"111,372"			
+AC536_RSS858	Region 39.1	NRPS	"96,835"	"140,185"	stenothricin	NRP:Cyclic depsipeptide	13
+AC536_RSS858	Region 51.1	NRPS	"2,914"	"94,151"	atratumycin	NRP	10
+AC536_RSS858	Region 58.1	CDPS	1	"16,979"			
+AC536_RSS858	Region 59.1	terpene	199	"21,281"	naphthomycin A	Polyketide	6
+AC536_RSS858	Region 61.1	terpene	"47,747"	"74,441"	hopene	Terpene	61
+AC536_RSS858	Region 81.1	ladderane	1	"22,731"			
+AC536_RSS858	Region 85.1	siderophore	"45,498"	"60,723"	ficellomycin	NRP	3
+AC536_RSS858	Region 86.1	terpene	"46,189"	"67,253"			
+AC536_RSS858	Region 103.1	NRPS	"10,244"	"51,701"	atratumycin	NRP	7
+AC536_RSS858	Region 104.1	bacteriocin	1	"7,497"			
+AC536_RSS858	Region 107.1	arylpolyene	1	"22,192"	kedarcidin	Polyketide:Iterative type I + Polyketide:Enediyne type I	6
+AC536_RSS858	Region 126.1	NRPS	"65,163"	"112,196"	streptobactin	NRP	41
+AC536_RSS858	Region 131.1	terpene	"12,088"	"33,287"	merochlorin A / merochlorin B / deschloro-merochlorin A / deschloro-merochlorin B / isochloro-merochlorin B / dichloro-merochlorin B / merochlorin D / merochlorin C	Terpene + Polyketide:Type III	7
+AC536_RSS858	Region 142.1	"T1PKS,NRPS"	"2,637"	"133,310"	niphimycins C-E	Polyketide	41
+AC536_RSS858	Region 148.1	NRPS	"75,341"	"121,992"	diisonitrile antibiotic SF2768	NRP	66
+AC536_RSS858	Region 164.1	T1PKS	1	"158,984"	nigericin	Polyketide:Modular type I	94
+AC536_RSS858	Region 164.2	"terpene,T1PKS,NRPS"	"292,759"	"397,796"	isorenieratene	Terpene	85
+AC536_RSS858	Region 167.1	T1PKS	1	"4,772"			
+AC536_RSS858	Region 172.1	"terpene,CDPS"	"17,524"	"39,157"			
+AC536_RSS858	Region 174.1	T1PKS	1	"45,348"	piericidin A1	Polyketide	91
+AC536_RSS858	Region 174.2	"T1PKS,transAT-PKS,PKS-like"	"57,483"	"154,583"	thailandamide / thailandamide lactone	NRP + Polyketide:Modular type I	31
+AC536_RSS858	Region 177.1	T1PKS	1	"85,487"	griseochelin	Polyketide	84
+AC536_RSS858	Region 181.1	ectoine	"2,068"	"12,472"	ectoine	Other	100
+AC536_RSS858	Region 182.1	T1PKS	1	"15,670"	ECO-02301	Polyketide	32
+AC536_RSS858	Region 189.1	"T1PKS,NRPS"	1	"46,616"	paulomycin	Other	7
+AC536_RSS858	Region 189.2	CDPS	"123,434"	"142,094"	naseseazine C / C3-aryl pyrroloindolines	Other	66
+AC536_RSS858	Region 191.1	NRPS	1	"31,120"			
+AC536_RSS858	Region 192.1	T1PKS	"18,996"	"54,705"	piericidin A1	Polyketide:Modular type I	41
+AC569_RSS891	Region 11.1	"NRPS,T1PKS"	"105,059"	"159,952"	enduracidin	NRP	6
+AC569_RSS891	Region 20.1	terpene	"33,904"	"54,911"			
+AC569_RSS891	Region 23.1	melanin	"1,881"	"12,372"	melanin	Other	100
+AC569_RSS891	Region 32.1	"T3PKS,NRPS"	"12,494"	"76,491"	alkylresorcinol	Polyketide	100
+AC569_RSS891	Region 35.1	bacteriocin	1	"3,678"			
+AC569_RSS891	Region 48.1	NRPS	1	"60,461"	tetronasin	Polyketide	11
+AC569_RSS891	Region 49.1	"NRPS,T1PKS"	1	"64,510"	BD-12	NRP	17
+AC569_RSS891	Region 50.1	NRPS	2	"36,961"	azicemicin B	Polyketide	4
+AC569_RSS891	Region 51.1	terpene	"3,730"	"25,040"	formicamycins A-M	Polyketide	16
+AC569_RSS891	Region 57.1	butyrolactone	"34,651"	"45,577"	coelimycin P1	Polyketide:Modular type I	8
+AC569_RSS891	Region 61.1	NRPS	1	"4,371"			
+AC569_RSS891	Region 62.1	NRPS	1	"3,700"			
+AC569_RSS891	Region 63.1	terpene	1	"19,620"	geosmin	Terpene	100
+AC569_RSS891	Region 63.2	NRPS	"84,227"	"134,548"	streptobactin	NRP	94
+AC569_RSS891	Region 64.1	siderophore	1	"11,747"	ficellomycin	NRP	3
+AC569_RSS891	Region 65.1	terpene	"69,966"	"91,039"	steffimycin D	Polyketide:Type II + Saccharide:Hybrid/tailoring	19
+AC569_RSS891	Region 66.1	lassopeptide	"12,589"	"35,185"			
+AC569_RSS891	Region 71.1	terpene	"320,518"	"347,088"	hopene	Terpene	69
+AC569_RSS891	Region 72.1	melanin	"3,592"	"14,014"	melanin	Other	100
+AC569_RSS891	Region 79.1	T3PKS	"21,596"	"62,714"	herboxidiene	Polyketide	6
+AC569_RSS891	Region 87.1	lanthipeptide	1	"13,236"			
+AC569_RSS891	Region 87.2	siderophore	"85,043"	"96,821"	desferrioxamin B	Other	80
+AC569_RSS891	Region 89.1	ectoine	"79,918"	"90,316"	ectoine	Other	100
+AC569_RSS891	Region 95.1	NRPS	1	"2,123"			
+AC569_RSS891	Region 96.1	NRPS	1	"2,120"			
+AC569_RSS891	Region 97.1	NRPS	1	"3,088"			
+AC569_RSS891	Region 102.1	"NRPS,T1PKS"	"28,033"	"77,503"	SGR PTMs	NRP + Polyketide	100
+AC569_RSS891	Region 107.1	"NRPS-like,transAT-PKS"	"18,883"	"82,527"	cycloheximide	Polyketide:Trans-AT type I	61
+AC569_RSS891	Region 110.1	T3PKS	"19,250"	"52,618"	rustmicin	Polyketide:Iterative type I	10
+AC569_RSS891	Region 124.1	lanthipeptide	1	"17,232"	AmfS	RiPP:Lanthipeptide	100
+AC569_RSS891	Region 128.1	"T1PKS,NRPS"	"48,527"	"101,540"	kanamycin	Saccharide	2
+AC569_RSS891	Region 129.1	"thiopeptide,LAP"	"14,750"	"43,653"	frigocyclinone	Polyketide	17
+AC569_RSS891	Region 130.1	"NRPS,ladderane,arylpolyene,NRPS-like"	"27,131"	"116,917"	RP-1776	Polyketide + NRP:Cyclic depsipeptide	40
+AC569_RSS891	Region 131.1	NRPS	1	"37,775"	valinomycin / montanastatin	NRP + Saccharide:Hybrid/tailoring	8
+AC569_RSS891	Region 133.1	NRPS	"70,606"	"98,096"	borrelidin	Polyketide:Modular type I	9
+AC569_RSS891	Region 136.1	"T3PKS,nucleoside"	"15,852"	"42,397"			
+AC569_RSS891	Region 138.1	bacteriocin	"62,806"	"73,603"	tetronasin	Polyketide	3
+AC569_RSS891	Region 142.1	NRPS	1	"4,244"			
+AC569_RSS891	Region 143.1	NRPS	"69,519"	"93,682"			
+AC569_RSS891	Region 145.1	"NRPS-like,arylpolyene"	"65,029"	"107,952"			
+AC569_RSS891	Region 149.1	NRPS-like	1	"7,593"	coelichelin	NRP	27
+AC569_RSS891	Region 150.1	NRPS	1	"9,589"			
+AC569_RSS891	Region 151.1	NRPS	1	"5,087"			
+AC569_RSS891	Region 152.1	NRPS	1	"4,416"			
+AC569_RSS891	Region 153.1	"T1PKS,terpene"	"26,770"	"92,324"	isorenieratene	Terpene	100
+AC569_RSS891	Region 154.1	"NRPS,T1PKS"	"16,574"	"125,924"	BE-43547A1 / BE-43547A2 / BE-43547B1 / BE-43547B2 / BE-43547B3 / BE-43547C1 / BE-43547C2	NRP:Cyclic depsipeptide + Polyketide:Modular type I	20
+AC569_RSS891	Region 155.1	NRPS	"102,901"	"148,017"	sceliphrolactam	Polyketide	8
+AC569_RSS891	Region 160.1	melanin	"85,399"	"95,764"	grixazone	Terpene	61
+AC569_RSS891	Region 160.2	lassopeptide	"167,810"	"190,517"			
+AC569_RSS891	Region 161.1	"NRPS,T1PKS,butyrolactone"	1	"55,633"	RP-1776	Polyketide + NRP:Cyclic depsipeptide	32
+AC569_RSS891	Region 161.2	ectoine	"55,635"	"65,607"	showdomycin	Other	41
+AC628_RSS909	Region 10.1	terpene	"107,888"	"128,952"			
+AC628_RSS909	Region 12.1	"terpene,CDPS"	"17,677"	"39,310"			
+AC628_RSS909	Region 15.1	NRPS	1	"31,037"			
+AC628_RSS909	Region 17.1	terpene	"50,172"	"71,371"	merochlorin A / merochlorin B / deschloro-merochlorin A / deschloro-merochlorin B / isochloro-merochlorin B / dichloro-merochlorin B / merochlorin D / merochlorin C	Terpene + Polyketide:Type III	7
+AC628_RSS909	Region 23.1	NRPS	"115,365"	"162,013"	diisonitrile antibiotic SF2768	NRP	66
+AC628_RSS909	Region 28.1	terpene	"44,266"	"58,521"	geosmin	Terpene	100
+AC628_RSS909	Region 29.1	NRPS-like	"24,849"	"62,473"	echoside A / echoside B / echoside C / echoside D / echoside E	NRP	76
+AC628_RSS909	Region 30.1	"T3PKS,NRPS-like"	"39,865"	"104,980"	napyradiomycin A80915C	Terpene + Polyketide:Type III	9
+AC628_RSS909	Region 33.1	terpene	"54,418"	"81,112"	hopene	Terpene	61
+AC628_RSS909	Region 35.1	siderophore	"45,353"	"60,578"	ficellomycin	NRP	3
+AC628_RSS909	Region 37.1	siderophore	"71,671"	"85,552"			
+AC628_RSS909	Region 52.1	NRPS	"48,177"	"91,512"	stenothricin	NRP:Cyclic depsipeptide	13
+AC628_RSS909	Region 53.1	NRPS	"65,166"	"112,193"	streptobactin	NRP	41
+AC628_RSS909	Region 57.1	ectoine	"170,841"	"181,245"	ectoine	Other	100
+AC628_RSS909	Region 59.1	NRPS	"39,502"	"83,707"	pepticinnamin E	NRP + Polyketide	6
+AC628_RSS909	Region 73.1	"other,CDPS"	1	"19,147"			
+AC628_RSS909	Region 82.1	NRPS	"2,837"	"94,167"	atratumycin	NRP	7
+AC628_RSS909	Region 87.1	"NRPS,T1PKS,terpene"	"48,626"	"151,891"	isorenieratene	Terpene	85
+AC628_RSS909	Region 87.2	terpene	"187,381"	"208,181"	isorenieratene	Terpene	18
+AC628_RSS909	Region 87.3	"T1PKS,NRPS"	"286,550"	"492,309"	nigericin	Polyketide:Modular type I	100
+AC628_RSS909	Region 87.4	CDPS	"569,378"	"584,529"	naseseazine C / C3-aryl pyrroloindolines	Other	66
+AC628_RSS909	Region 93.1	ladderane	"30,036"	"58,859"			
+AC628_RSS909	Region 94.1	"T1PKS,NRPS"	1	"121,831"	funisamine	Polyketide	27
+AC628_RSS909	Region 99.1	T1PKS	"27,001"	"50,314"	aculeximycin	Polyketide	26
+AC628_RSS909	Region 105.1	T1PKS	1	"85,300"	griseochelin	Polyketide	84
+AC628_RSS909	Region 118.1	bacteriocin	"19,911"	"26,642"			
+AC628_RSS909	Region 122.1	bacteriocin	1	"3,424"			
+AC628_RSS909	Region 132.1	terpene	"89,455"	"110,537"	xiamycin A	Terpene	13
+AC628_RSS909	Region 133.1	butyrolactone	"100,622"	"111,619"			
+AC628_RSS909	Region 136.1	"PKS-like,transAT-PKS,T1PKS"	"38,313"	"135,604"	thailandamide / thailandamide lactone	NRP + Polyketide:Modular type I	26
+AC628_RSS909	Region 136.2	T1PKS	"147,086"	"230,579"	piericidin A1	Polyketide	100
+AC628_RSS909	Region 136.3	NRPS	"243,101"	"290,357"			
+AC628_RSS909	Region 137.1	T1PKS	1	"4,502"			
+AC628_RSS909	Region 138.1	arylpolyene	"130,501"	"165,065"	kedarcidin	Polyketide:Iterative type I + Polyketide:Enediyne type I	6
+AC469_CC789	Region 6.1	NRPS	1	"18,791"	tetronasin	Polyketide	5
+AC469_CC789	Region 11.1	NRPS	1	"16,431"			
+AC469_CC789	Region 38.1	bacteriocin	1	"6,302"			
+AC469_CC789	Region 50.1	"PKS-like,LAP"	"2,954"	"23,963"	caboxamycin	Other	20
+AC469_CC789	Region 57.1	terpene	1	"4,028"	isorenieratene	Terpene	25
+AC469_CC789	Region 58.1	T1PKS	1	"20,932"	abyssomicin M / abyssomicin N / abyssomicin O / abyssomicin P / abyssomicin Q / abyssomicin R / abyssomicin S / abyssomicin T / abyssomicin U / abyssomicin V / abyssomicin W / abyssomicin X	Polyketide	25
+AC469_CC789	Region 90.1	"T1PKS,NRPS"	1	"25,376"	lydicamycin	NRP + Polyketide:Modular type I	28
+AC469_CC789	Region 103.1	bacteriocin	"9,806"	"20,678"			
+AC469_CC789	Region 108.1	T1PKS	1	"14,978"	nocamycin	NRP + Polyketide	18
+AC469_CC789	Region 142.1	NRPS	1	"46,061"			
+AC469_CC789	Region 155.1	NRPS	1	"24,522"	coelibactin	NRP	36
+AC469_CC789	Region 189.1	T1PKS	1	"8,133"	abyssomicin M / abyssomicin N / abyssomicin O / abyssomicin P / abyssomicin Q / abyssomicin R / abyssomicin S / abyssomicin T / abyssomicin U / abyssomicin V / abyssomicin W / abyssomicin X	Polyketide	18
+AC469_CC789	Region 211.1	T1PKS	1	"9,015"			
+AC469_CC789	Region 237.1	NRPS	1	"5,370"			
+AC469_CC789	Region 256.1	NRPS	1	"16,570"	acarviostatin I03 / acarviostatin II03 / acarviostatin III03 / acarviostatin IV03	Saccharide	18
+AC469_CC789	Region 262.1	NRPS	1	"21,290"	icosalide A / icosalide B	NRP:Lipopeptide	100
+AC469_CC789	Region 264.1	lanthipeptide	1	"13,515"			
+AC469_CC789	Region 314.1	NRPS	1	"19,738"			
+AC469_CC789	Region 316.1	NRPS	1	"15,179"	ralsolamycin	NRP + Polyketide	60
+AC469_CC789	Region 327.1	T1PKS	1	"4,811"			
+AC469_CC789	Region 362.1	T1PKS	"2,826"	"32,961"	calicheamicin	Polyketide	2
+AC469_CC789	Region 366.1	terpene	"1,945"	"22,940"			
+AC469_CC789	Region 376.1	"NRPS-like,PKS-like"	1	"29,903"	herboxidiene	Polyketide	2
+AC469_CC789	Region 394.1	siderophore	"7,053"	"15,699"			
+AC469_CC789	Region 429.1	T3PKS	1	"6,436"	alkylresorcinol	Polyketide	100
+AC469_CC789	Region 445.1	terpene	1	"11,414"	chlortetracycline	Polyketide	5
+AC469_CC789	Region 448.1	T1PKS	1	"16,211"	maklamicin	Polyketide	17
+AC469_CC789	Region 457.1	"oligosaccharide,T2PKS"	1	"40,712"	komodoquinone B	Polyketide:Type II + Saccharide:Hybrid/tailoring	51
+AC469_CC789	Region 461.1	T1PKS	1	"3,753"			
+AC469_CC789	Region 465.1	lanthipeptide	1	"19,959"			
+AC469_CC789	Region 480.1	T1PKS	1	"23,165"	salinomycin	Polyketide:Modular type I	28
+AC469_CC789	Region 497.1	lanthipeptide	"15,032"	"34,549"	SAL-2242	RiPP:Lanthipeptide	44
+AC469_CC789	Region 498.1	T2PKS	1	"17,600"	formicamycins A-M	Polyketide	16
+AC469_CC789	Region 530.1	terpene	1	"21,643"	geosmin	Terpene	100
+AC469_CC789	Region 538.1	other	"16,309"	"43,748"	komodoquinone B	Polyketide:Type II + Saccharide:Hybrid/tailoring	17
+AC469_CC789	Region 576.1	T1PKS	1	"5,500"			
+AC469_CC789	Region 580.1	NRPS	1	"21,681"	coelibactin	NRP	36
+AC469_CC789	Region 586.1	T1PKS	1	"1,487"			
+AC469_CC789	Region 603.1	"PKS-like,T1PKS"	1	"10,320"	chlorothricin / deschlorothricin	Polyketide:Modular type I + Polyketide:Iterative type I + Saccharide:Oligosaccharide	18
+AC469_CC789	Region 620.1	terpene	"1,510"	"22,394"	frankiamicin	Polyketide	21
+AC469_CC789	Region 656.1	NRPS	1	"26,233"	albachelin	NRP	20
+AC469_CC789	Region 663.1	"NRPS,T1PKS"	1	"18,928"	rakicidin A / rakicidin B	NRP:Cyclic depsipeptide + Polyketide:Modular type I	44
+AC542_RSS864	Region 1.1	NRPS	1	"26,819"	cadaside A / cadaside B	NRP	9
+AC542_RSS864	Region 1.2	siderophore	"186,659"	"198,431"	desferrioxamin B / desferrioxamine E	Other	83
+AC542_RSS864	Region 1.3	melanin	"282,441"	"292,998"	melanin	Other	60
+AC542_RSS864	Region 2.1	lanthipeptide	"165,636"	"188,206"			
+AC542_RSS864	Region 3.1	siderophore	"116,947"	"130,089"	arsono-polyketide	Polyketide	20
+AC542_RSS864	Region 4.1	T1PKS	1	"63,590"	67-121C	Polyketide	20
+AC542_RSS864	Region 4.2	NRPS	"372,906"	"418,434"	paenibactin	NRP	83
+AC542_RSS864	Region 4.3	NRPS	"447,530"	"498,521"	coelichelin	NRP	100
+AC542_RSS864	Region 6.1	T3PKS	"190,725"	"231,816"	herboxidiene	Polyketide	8
+AC542_RSS864	Region 6.2	NRPS	"406,795"	"437,010"	himastatin	NRP	20
+AC542_RSS864	Region 9.1	bacteriocin	"216,268"	"226,483"	informatipeptin	RiPP:Lanthipeptide	42
+AC542_RSS864	Region 9.2	terpene	"242,711"	"263,742"	versipelostatin	Polyketide	5
+AC542_RSS864	Region 10.1	"terpene,hglE-KS,T1PKS,NRPS-like"	"60,425"	"153,056"	incednine	Polyketide	6
+AC542_RSS864	Region 10.2	indole	"315,706"	"336,839"	5-isoprenylindole-3-carboxylate β-D-glycosyl ester	Other	33
+AC542_RSS864	Region 12.1	terpene	"78,967"	"99,986"	albaflavenone	Terpene	100
+AC542_RSS864	Region 12.2	T2PKS	"149,282"	"221,830"	spore pigment	Polyketide	66
+AC542_RSS864	Region 16.1	"other,PKS-like,NRPS,T1PKS"	"199,499"	"251,260"	quinocarcin	NRP	16
+AC542_RSS864	Region 17.1	terpene	"53,956"	"74,840"			
+AC542_RSS864	Region 19.1	siderophore	"116,942"	"129,062"			
+AC542_RSS864	Region 21.1	lanthipeptide	"9,978"	"34,761"	planosporicin	RiPP:Lanthipeptide	100
+AC542_RSS864	Region 24.1	NRPS-like	"116,287"	"160,297"			
+AC542_RSS864	Region 33.1	"NRPS,T1PKS,NRPS-like"	"34,939"	"119,633"	antimycin	NRP + Polyketide	93
+AC542_RSS864	Region 34.1	bacteriocin	"47,497"	"58,858"			
+AC542_RSS864	Region 34.2	terpene	"77,363"	"99,543"	geosmin	Terpene	100
+AC542_RSS864	Region 36.1	lassopeptide	1	"13,695"	citrulassin D	RiPP	100
+AC542_RSS864	Region 36.2	ectoine	"43,949"	"54,347"	ectoine	Other	100
+AC542_RSS864	Region 37.1	lanthipeptide	"23,732"	"50,263"			
+AC542_RSS864	Region 39.1	terpene	"47,579"	"71,770"	carotenoid	Terpene	54
+AC542_RSS864	Region 55.1	terpene	"14,964"	"41,809"	hopene	Terpene	100
+AC542_RSS864	Region 58.1	other	"11,714"	"52,130"	nenestatin	Polyketide	41
+AC542_RSS864	Region 59.1	NRPS	"33,556"	"58,903"	lipopeptide 8D1-1 / lipopeptide 8D1-2	NRP	4
+AC542_RSS864	Region 71.1	T1PKS	1	"36,984"	ECO-02301	Polyketide	32
+AC542_RSS864	Region 89.1	NRPS	1	"15,316"	validamycin A	Polyketide + Other:Cyclitol	7
+AC542_RSS864	Region 90.1	T2PKS	1	"15,149"	mithramycin	Polyketide:Type II + Saccharide:Oligosaccharide	8
+AC542_RSS864	Region 91.1	butyrolactone	1	"6,841"	lactonamycin	Polyketide	5
+AC542_RSS864	Region 92.1	"T1PKS,NRPS"	1	"14,108"	ilamycins	Polyketide	9
+AC542_RSS864	Region 94.1	NRPS	1	"11,683"	surugamide A / surugamide D	NRP	14
+AC542_RSS864	Region 99.1	T1PKS	1	"7,787"	FD-891	Polyketide	62
+AC542_RSS864	Region 102.1	NRPS	1	"5,833"			
+AC542_RSS864	Region 108.1	T1PKS	1	"3,826"			
+AC495_CC817	Region 13.1	bacteriocin	"20,604"	"30,891"			
+AC495_CC817	Region 16.1	bacteriocin	1	"7,414"			
+AC495_CC817	Region 17.1	ectoine	"12,528"	"22,932"	ectoine	Other	100
+AC495_CC817	Region 42.1	terpene	"15,680"	"36,354"			
+AC495_CC817	Region 59.1	T2PKS	1	"12,248"	kinamycin	Polyketide	34
+AC495_CC817	Region 75.1	NRPS	1	"3,185"			
+AC495_CC817	Region 99.1	"T3PKS,terpene"	"20,233"	"61,408"	diazaquinomycin H / diazaquinomycin J	Other	14
+AC495_CC817	Region 100.1	siderophore	"11,879"	"23,651"	desferrioxamin B / desferrioxamine E	Other	83
+AC495_CC817	Region 104.1	"NRPS-like,T1PKS"	1	"26,955"			
+AC495_CC817	Region 113.1	"NRPS,melanin"	"62,160"	"126,839"	scabichelin	NRP	100
+AC495_CC817	Region 113.2	terpene	"151,297"	"172,223"			
+AC495_CC817	Region 113.3	"NRPS,T1PKS"	"178,199"	"240,587"	herboxidiene	Polyketide	4
+AC495_CC817	Region 113.4	indole	"256,953"	"278,236"	5-isoprenylindole-3-carboxylate β-D-glycosyl ester	Other	9
+AC495_CC817	Region 118.1	terpene	520	"21,521"			
+AC495_CC817	Region 121.1	T1PKS	1	"24,383"	daptomycin	NRP	7
+AC495_CC817	Region 122.1	terpene	"56,971"	"68,830"			
+AC495_CC817	Region 145.1	ectoine	"56,274"	"66,702"	ectoine	Other	75
+AC495_CC817	Region 155.1	terpene	"8,020"	"34,708"	hopene	Terpene	92
+AC495_CC817	Region 155.2	"NRPS-like,T1PKS"	"60,071"	"112,419"	marineosin A / marineosin B	Polyketide	90
+AC495_CC817	Region 157.1	T2PKS	"9,763"	"82,287"	spore pigment	Polyketide	83
+AC495_CC817	Region 160.1	NRPS-like	1	"27,371"			
+AC495_CC817	Region 161.1	terpene	"15,017"	"34,500"			
+AC495_CC817	Region 170.1	"betalactone,furan"	"242,309"	"286,849"	iturin	NRP + Polyketide	22
+AC495_CC817	Region 176.1	siderophore	1	"7,311"			
+AC495_CC817	Region 177.1	"T1PKS,lassopeptide"	1	"97,837"	concanamycin A	Polyketide	89
+AC495_CC817	Region 181.1	NRPS	1	"23,906"	kirromycin	NRP + Polyketide:Modular type I + Polyketide:Trans-AT type I	22
+AC495_CC817	Region 183.1	"bacteriocin,lanthipeptide"	"112,881"	"140,420"	informatipeptin	RiPP:Lanthipeptide	100
+AC495_CC817	Region 184.1	"transAT-PKS-like,NRPS"	1	"28,168"	kirromycin	NRP + Polyketide:Modular type I + Polyketide:Trans-AT type I	11
+AC495_CC817	Region 188.1	lanthipeptide	"8,110"	"34,423"			
+AC495_CC817	Region 189.1	terpene	"124,423"	"145,331"	carotenoid	Terpene	28
+AC495_CC817	Region 202.1	siderophore	"5,191"	"20,049"			
+AC495_CC817	Region 202.2	linaridin	"38,619"	"59,239"	pentostatine / vidarabine	Other	9
+AC495_CC817	Region 207.1	"transAT-PKS-like,T1PKS"	1	"29,530"	kirromycin	NRP + Polyketide:Modular type I + Polyketide:Trans-AT type I	5
+AC495_CC817	Region 212.1	siderophore	"33,773"	"45,563"	desferrioxamine E	Other	75
+AC495_CC817	Region 216.1	T1PKS	1	"5,577"	mediomycin A	Polyketide	28
+AC495_CC817	Region 220.1	"betalactone,T3PKS"	"870,762"	"916,397"	microansamycin	Polyketide	7
+AC495_CC817	Region 222.1	melanin	"14,764"	"25,231"	melanin	Other	80
+AC495_CC817	Region 223.1	"NRPS-like,siderophore"	"4,377"	"36,799"	paulomycin	Other	13
+AC495_CC817	Region 225.1	terpene	1	"10,213"	2-methylisoborneol	Terpene	100
+AC495_CC817	Region 226.1	bacteriocin	1	"1,759"			
+AC495_CC817	Region 230.1	terpene	"48,579"	"70,786"	geosmin	Terpene	100
+AC495_CC817	Region 230.2	NRPS-like	"97,756"	"140,263"	s56-p1	NRP	11
+AC495_CC817	Region 232.1	terpene	"19,695"	"46,191"	isorenieratene	Terpene	100
+AC495_CC817	Region 262.1	"bacteriocin,bottromycin"	1	"9,831"	bottromycin D	RiPP:Cyanobactin	72
+AC495_CC817	Region 263.1	bacteriocin	1	"6,245"			
+AC495_CC817	Region 263.2	indole	"37,174"	"58,733"	5-isoprenylindole-3-carboxylate β-D-glycosyl ester	Other	28
+AC495_CC817	Region 264.1	bacteriocin	1	"1,753"			
+AC495_CC817	Region 275.1	"hglE-KS,T1PKS"	1	"38,761"	kanamycin	Saccharide	1
+AC495_CC817	Region 284.1	NRPS-like	"27,072"	"86,045"	echoside A / echoside B / echoside C / echoside D / echoside E	NRP	17
+AC230_FW421	Region 2.1	hglE-KS	"1,946"	"53,758"	meoabyssomicin / abyssomicin	Polyketide	6
+AC230_FW421	Region 8.1	"T1PKS,NRPS-like"	1	"26,472"	niphimycins C-E	Polyketide	29
+AC230_FW421	Region 9.1	T1PKS	1	"63,905"	argimycin PI / argimycin PII / nigrifactin / argimycin PIV / argimycin PV / argimycin PVI / argimycin PIX	Polyketide:Modular type I	27
+AC230_FW421	Region 10.1	T1PKS	1	"29,982"	nocardiopsin A / nocardiopsin B / nocardiopsin C / nocardiopsin D	NRP + Polyketide	21
+AC230_FW421	Region 27.1	siderophore	1	"10,663"	desferrioxamin B	Other	100
+AC230_FW421	Region 31.1	lanthipeptide	"17,628"	"40,399"	SapB	RiPP:Lanthipeptide	100
+AC230_FW421	Region 31.2	T3PKS	"49,860"	"81,925"	alkylresorcinol	Polyketide	100
+AC230_FW421	Region 34.1	T3PKS	"25,541"	"56,088"	kirromycin	NRP + Polyketide:Modular type I + Polyketide:Trans-AT type I	3
+AC230_FW421	Region 44.1	"T1PKS,NRPS-like"	1	"26,047"			
+AC230_FW421	Region 60.1	"T3PKS,melanin"	1	"28,850"	istamycin	Saccharide	4
+AC230_FW421	Region 63.1	indole	"7,104"	"28,311"	staurosporine	Alkaloid	86
+AC230_FW421	Region 69.1	T1PKS	1	"15,056"	caniferolide A / caniferolide B / caniferolide C / caniferolide D	Polyketide:Modular type I	16
+AC230_FW421	Region 72.1	T1PKS	1	"11,813"	ECO-02301	Polyketide	32
+AC230_FW421	Region 73.1	"other,T1PKS"	1	"29,476"	cyphomycin	Polyketide	18
+AC230_FW421	Region 74.1	T1PKS	1	"8,812"	griseochelin	Polyketide	53
+AC230_FW421	Region 75.1	T1PKS	1	"4,046"			
+AC230_FW421	Region 85.1	hglE-KS	1	"35,071"	diisonitrile antibiotic SF2768	NRP	16
+AC230_FW421	Region 87.1	T1PKS	1	"31,118"	frankiamicin	Polyketide	14
+AC230_FW421	Region 94.1	butyrolactone	"12,359"	"23,369"			
+AC230_FW421	Region 101.1	bacteriocin	"2,153"	"8,689"			
+AC230_FW421	Region 103.1	"NRPS,T1PKS"	"30,608"	"84,444"	divergolide A / divergolide B / divergolide C / divergolide D	Polyketide:Modular type I	10
+AC230_FW421	Region 106.1	terpene	1	"11,154"	GE81112	NRP	10
+AC230_FW421	Region 110.1	T1PKS	1	"17,866"	sceliphrolactam	Polyketide	24
+AC230_FW421	Region 113.1	T1PKS	1	"4,822"			
+AC230_FW421	Region 114.1	T1PKS	1	"7,477"			
+AC230_FW421	Region 116.1	"NRPS,bacteriocin"	"7,039"	"38,765"	rimosamide	NRP	14
+AC230_FW421	Region 117.1	terpene	1	"12,583"	geosmin	Terpene	100
+AC230_FW421	Region 120.1	T1PKS	1	"5,413"			
+AC230_FW421	Region 130.1	lassopeptide	"4,537"	"22,288"	ikarugamycin	NRP + Polyketide:Iterative type I	8
+AC230_FW421	Region 131.1	T1PKS	1	"17,890"	apoptolidin	Polyketide	25
+AC230_FW421	Region 136.1	"NRPS,T1PKS"	1	"23,641"	amicetin	Saccharide:Aminoglycoside	8
+AC230_FW421	Region 151.1	NRPS	1	"22,784"			
+AC230_FW421	Region 161.1	siderophore	"15,195"	"21,912"			
+AC230_FW421	Region 187.1	lassopeptide	"6,657"	"29,228"	albusnodin	RiPP	100
+AC230_FW421	Region 188.1	siderophore	1	"6,959"			
+AC230_FW421	Region 195.1	terpene	1	"11,234"	isorenieratene	Terpene	85
+AC230_FW421	Region 206.1	NRPS	1	"24,990"	capreomycin IA / capreomycin IB / capreomycin IIA / capreomycin IIB	NRP	9
+AC230_FW421	Region 216.1	T2PKS	1	"12,980"	oxytetracycline	Polyketide	35
+AC230_FW421	Region 226.1	ectoine	1	"6,797"	ectoine	Other	75
+AC230_FW421	Region 242.1	NRPS	1	"21,509"	paenibactin	NRP	83
+AC230_FW421	Region 246.1	NRPS	"11,894"	"59,237"	pepticinnamin E	NRP + Polyketide	6
+AC230_FW421	Region 260.1	NRPS	1	"37,288"	rimosamide	NRP	21
+AC230_FW421	Region 272.1	TfuA-related	1	"10,323"			
+AC230_FW421	Region 291.1	terpene	1	"24,096"	hopene	Terpene	76
+AC230_FW421	Region 317.1	T1PKS	1	"8,528"	salinomycin	Polyketide	50
+AC230_FW421	Region 335.1	T1PKS	1	"2,467"			
+AC230_FW421	Region 359.1	betalactone	1	"14,944"			
+AC230_FW421	Region 388.1	PKS-like	1	"11,448"	caniferolide A / caniferolide B / caniferolide C / caniferolide D	Polyketide:Modular type I	16
+AC230_FW421	Region 411.1	T1PKS	1	"1,953"			
+AC230_FW421	Region 415.1	nucleoside	1	"2,313"			
+AC230_FW421	Region 447.1	terpene	1	"1,350"			
+AC541_RSS863	Region 1	CDPS	"3,032"	"21,232"	naseseazine C / C3-aryl pyrroloindolines	Other	66
+AC541_RSS863	Region 2	"NRPS,T1PKS"	"99,140"	"308,869"	nigericin	Polyketide:Modular type I	100
+AC541_RSS863	Region 3	"terpene,T1PKS,NRPS"	"443,359"	"547,391"	isorenieratene	Terpene	85
+AC541_RSS863	Region 4	NRPS	"674,986"	"764,822"	atratumycin	NRP	10
+AC541_RSS863	Region 5	"T3PKS,NRPS-like"	"807,162"	"870,972"	napyradiomycin A80915C	Terpene + Polyketide:Type III	9
+AC541_RSS863	Region 6	butyrolactone	"1,227,471"	"1,238,262"			
+AC541_RSS863	Region 7	siderophore	"1,414,793"	"1,427,332"			
+AC541_RSS863	Region 8	"NRPS,T1PKS"	"1,469,159"	"1,614,441"	niphimycins C-E	Polyketide	41
+AC541_RSS863	Region 9	bacteriocin	"1,668,701"	"1,677,605"			
+AC541_RSS863	Region 10	bacteriocin	"1,769,246"	"1,780,880"			
+AC541_RSS863	Region 11	siderophore	"1,989,034"	"2,004,259"	ficellomycin	NRP	3
+AC541_RSS863	Region 12	"other,CDPS"	"2,340,390"	"2,382,209"	BD-12	NRP	17
+AC541_RSS863	Region 13	T1PKS	"2,547,168"	"2,646,977"	methymycin	Polyketide:Modular type I + Saccharide:Hybrid/tailoring	57
+AC541_RSS863	Region 14	terpene	"2,663,478"	"2,683,433"	merochlorin A / merochlorin B / deschloro-merochlorin A / deschloro-merochlorin B / isochloro-merochlorin B / dichloro-merochlorin B / merochlorin D / merochlorin C	Terpene + Polyketide:Type III	7
+AC541_RSS863	Region 15	NRPS-like	"2,730,857"	"2,770,271"	echoside A / echoside B / echoside C / echoside D / echoside E	NRP	76
+AC541_RSS863	Region 16	terpene	"3,005,113"	"3,023,976"	xiamycin A	Terpene	13
+AC541_RSS863	Region 17	terpene	"3,680,479"	"3,700,594"	geosmin	Terpene	100
+AC541_RSS863	Region 18	arylpolyene	"4,701,095"	"4,742,318"	kedarcidin	Polyketide:Iterative type I + Polyketide:Enediyne type I	7
+AC541_RSS863	Region 19	"CDPS,terpene"	"4,969,166"	"4,989,893"			
+AC541_RSS863	Region 20	NRPS	"5,744,209"	"5,787,082"	atratumycin	NRP	7
+AC541_RSS863	Region 21	ladderane	"5,987,445"	"6,028,701"	marinacarboline A / marinacarboline B / marinacarboline C / marinacarboline D	Alkaloid	30
+AC541_RSS863	Region 22	NRPS	"6,637,568"	"6,683,538"	diisonitrile antibiotic SF2768	NRP	66
+AC541_RSS863	Region 23	ectoine	"7,012,641"	"7,023,045"	ectoine	Other	100
+AC541_RSS863	Region 24	NRPS	"7,185,038"	"7,229,074"	streptobactin	NRP	41
+AC541_RSS863	Region 25	NRPS	"7,376,456"	"7,417,977"	stenothricin	NRP:Cyclic depsipeptide	13
+AC541_RSS863	Region 26	terpene	"7,515,639"	"7,540,197"	hopene	Terpene	61
+AC541_RSS863	Region 27	"PKS-like,transAT-PKS,T1PKS"	"7,685,726"	"7,782,987"	thailandamide / thailandamide lactone	NRP + Polyketide:Modular type I	26
+AC541_RSS863	Region 28	T1PKS	"7,795,817"	"7,878,091"	piericidin A1	Polyketide	100
+AC541_RSS863	Region 29	NRPS	"8,088,079"	"8,136,496"			
+AC541_RSS863	Region 30	terpene	"8,314,473"	"8,335,522"			
