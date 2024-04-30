@@ -23,7 +23,7 @@ maps = ggplot(arnm, aes(long, lat, group=group)) +
   )
 
 ggsave(
-  filename = "~/DATA/batbact/map.pdf",
+  filename = "~/batbact/map.pdf",
   plot = maps,
   width = 24,
   height = 12,
@@ -62,7 +62,7 @@ for (i in unique(data$site)) {
 pltpies = dapies[[1]] + dapies[[2]] + dapies[[3]] + dapies[[4]] + dapies[[5]] + dapies[[6]] + plot_layout(nrow = 2)
 
 ggsave(
-  filename = "~/DATA/batbact/map_pies.pdf",
+  filename = "~/batbact/map_pies.pdf",
   plot = pltpies,
   width = 11,
   height = 8.5,
