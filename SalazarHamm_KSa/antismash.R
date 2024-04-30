@@ -17,7 +17,7 @@ theme_set(theme_bw() +
             ))
 
 # Read in the long formatted antismash data
-sec_meta_data <- read_delim("antismash_raw_data_2020.txt", "\t", na = c('.','-999',''))
+sec_meta_data <- read_delim("antismash_raw_data_2021.txt", "\t", na = c('.','-999',''))
 sec_meta_data
 
 # The putative clusters aren't informative so we remove them for plotting.
