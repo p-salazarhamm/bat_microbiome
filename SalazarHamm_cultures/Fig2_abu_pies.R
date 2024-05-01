@@ -1,5 +1,6 @@
 library(tidyverse)
 library(readxl)
+library(harrypotter)
 
 pie_data = read_xlsx("~/batbact/Fig 2 pie chart meta.xlsx")
 pie1 = pie_data[1:7,]
