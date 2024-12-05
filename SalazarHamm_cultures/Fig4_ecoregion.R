@@ -1,5 +1,6 @@
 library(tidyverse)
 library(harrypotter)
+library(patchwork)
 
 dat = t(read_delim("~/batbact/Fig 4 Prop_Ecoregion_metadata.csv", delim=',')[-c(1,5,6,7,8),])
 ecos = rownames(dat)[-1]
@@ -48,6 +49,14 @@ inhib_abs = ggplot(plt_dat, aes(x = ecoregion, y = inhib)) +
 no_inhib_abs = ggplot(plt_dat, aes(x = ecoregion, y = noinhib)) +
   geom_segment(aes(x=ecoregion, xend=ecoregion, y=0, yend=noinhib), color = "black", linetype = "dashed") +
   geom_point(pch = 21, size = 4, stat = "identity", position = "dodge",fill = "#006699FF", color="black") +
+  coord_flip() +
+  theme_bw() +
+  theme(
+    panel.grid = element_blank()
+  )
+inhib_prob = ggplot(plt_dat, aes(x = ecoregion, y = perc_inhib)) +
+  geom_segment(aes(x=ecoregion, xend=ecoregion, y=0, yend=perc_inhib), color = "black", linetype = "dashed") +
+  geom_point(pch = 21, size = 4, stat = "identity", position = "dodge", fill = "#CFAF8EFF", color="black") +
   coord_flip() +
   theme_bw() +
   theme(
