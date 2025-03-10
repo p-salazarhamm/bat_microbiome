@@ -56,7 +56,7 @@ no_inhib_abs = ggplot(plt_dat, aes(x = ecoregion, y = noinhib)) +
   )
 inhib_prob = ggplot(plt_dat, aes(x = ecoregion, y = perc_inhib)) +
   geom_segment(aes(x=ecoregion, xend=ecoregion, y=0, yend=perc_inhib), color = "black", linetype = "dashed") +
-  geom_point(pch = 21, size = 4, stat = "identity", position = "dodge", fill = "#CFAF8EFF", color="black") +
+  geom_point(pch = 21, size = 4, stat = "identity", position = "dodge", fill = "#8A9A9A", color="black") +
   coord_flip() +
   theme_bw() +
   theme(
