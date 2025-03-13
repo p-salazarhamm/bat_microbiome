@@ -63,7 +63,7 @@ inhib_prob = ggplot(plt_dat, aes(x = ecoregion, y = perc_inhib)) +
     panel.grid = element_blank()
   )
 
-plt = no_inhib_abs + inhib_abs +plot_layout(nrow=1)
+plt = no_inhib_abs + inhib_abs + plot_layout(nrow=1)
 ggsave(
   filename = "~/batbact/dots.pdf",
   plot = plt,
