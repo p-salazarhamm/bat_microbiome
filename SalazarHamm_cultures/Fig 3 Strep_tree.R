@@ -8,7 +8,7 @@ library(readxl)
 library(ggnewscale)
 library(RColorBrewer)
 
-tree = read.newick("~/DATA/batbact/reduced_tree.tre")
+tree = read.newick("~/DATA/batbact/batbact_red_iqtee_npb.contree")
 tree$tip.label = gsub("[.][0-9]*","",tree$tip.label)
 
 sheet = read_delim("~/DATA/batbact/Strep_backbone.csv", delim = ",")[,-4]
